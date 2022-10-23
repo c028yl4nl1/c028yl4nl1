@@ -1,16 +1,19 @@
-### Hi there 👋
+## Ola! Sou o C028yL4nl1 ⛄
 
-<!--
-**c028yl4nl1/c028yl4nl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lanbyshell)
 
-Here are some ideas to get you started:
+![C028yL4nl1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C028yL4nl1&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:computer: Sou um estudante de Ciências da Computação!
+
+:house_with_garden: Atualmente morando no local indefinido.
+
+:books: Como sempre eu estou tentando aprender um pouco de tudo, as áreas que mais gosto são Pentest e Programação, Qualquer tipo de desenvolvimento.
+
+## Sejam bem vindo ao meu perfil :)
+
+<img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy-downsized.gif" align="center"  height="300" width="300" > </img>
+
+#### Caso eu tiver " algum " código mal feito , por favor não reclame ou fale algo constrangedor. Criei o meu perfil no  ghithub apenas para depositar os "meus" projetos e códigos.
+ 
