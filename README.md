@@ -1,6 +1,6 @@
 ## Ola! Sou o C028yL4nl1 ⛄
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lanbyshell)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/C028yL4nl1)
 
 ![C028yL4nl1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C028yL4nl1&show_icons=true&theme=dark)
 
