@@ -15,5 +15,5 @@
 
 <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy-downsized.gif" align="center"  height="300" width="300" > </img>
 
-#### Caso eu tiver " algum " código mal feito , por favor não reclame ou fale algo constrangedor. Criei o meu perfil no  ghithub apenas para depositar os "meus" projetos e códigos.
+
  
