@@ -7,9 +7,7 @@
 
 :computer: Sou um estudante de Ciências da Computação!
 
-:house_with_garden: Atualmente morando no local indefinido.
-
-:books: Como sempre eu estou tentando aprender um pouco de tudo, as áreas que mais gosto são Pentest e Programação, Qualquer tipo de desenvolvimento.
+:books: Como sempre eu estou tentando aprender um pouco de tudo, as áreas que mais gosto são Pentest, Programação e Ossint , Qualquer tipo de desenvolvimento.
 
 ## Sejam bem vindo ao meu perfil :)
 
